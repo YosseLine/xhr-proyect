@@ -10,3 +10,13 @@
 .margin-top-5{
   margin-top: 5vh;
 }
+.articleClass{
+  list-style: none;
+  padding: 10px;
+  border: 1px solid blue;
+  border-radius: 20px;
+  margin-top: 2vh;
+}
+ul{
+  padding-left: 0;
+}
